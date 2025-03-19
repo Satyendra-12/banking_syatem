@@ -15,7 +15,8 @@
         "laravel/sanctum": "^3.2",
         "laravel/tinker": "^2.8",
         "minuteoflaravel/laravel-audio-video-validator": "^1.1",
-        "php-ffmpeg/php-ffmpeg": "^1.1"
+        "php-ffmpeg/php-ffmpeg": "^1.1",
+        "symfony/polyfill-php72": "^1.31"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
